@@ -36,6 +36,8 @@ At the end of this training, you should feel confident to start managing your ow
 ### General notes
 Here are some references for further reading if you ever need to. You might want to bookmark them for ease of access
 
+Loads of learning resources: https://stats.stackexchange.com/questions/138/free-resources-for-learning-r
+
 R cheatsheet (it's not cheating!): https://posit.co/resources/cheatsheets/
 
 Data Carpentry Spreadsheet Formatting Lessons: https://datacarpentry.org/spreadsheet-ecology-lesson/
@@ -50,30 +52,8 @@ You are stranded and you need to ask questions: https://stackoverflow.com/questi
 #### Prerequisites
 No prior programming experience is required
 
-***
-#### Getting R and RStudio
-***
 
-Download the latest version of R and RStudio Desktop version here: https://cran.r-project.org/ and https://posit.co/download/rstudio-desktop/#download respectively
 
-#### Create an R Project
-1) Download and extract this zip file into a new directory of your choice
-
-2) Launch your RStudio
-
-3) Navigate through RStudio using the menu File -> New Project -> Existing Directory
-
-4) Name your project e.g "R-training"
-
-5) Browse to the same directory that your extracted files are.
-
-6) Rstudio will refresh so that the working directory corresponds to your data folder.
-
-We will be installing some extra R packages required for the training as we proceed. However, there are R functions that can  check whether a package is currently installed. For example, the find.package function:
-
-```{r}
-find.package("MASS")
-```
 
 
 
