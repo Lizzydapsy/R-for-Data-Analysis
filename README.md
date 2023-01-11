@@ -1,9 +1,7 @@
-# R for Statistics and Data Visualisation - An Introduction for Life Scientists
-## Research and Innovation IT, University of Sheffield
-#### Elizabeth Oladapo
 
-The aim of this course is to give an introduction to using R programming language for analyzing data in RStudio, focusing on basic Statistics and Data Visualization.
+![The aim of this course is to give an introduction to using R programming language for analyzing data in RStudio, focusing on basic Statistics and Data Visualization.](C:\Users\bop18eoo\Desktop\start_page.png)
 
+<br/><br/>
 
 ###   Overview
 The accelerated increase in the data generated from high-throughput scientific experiments has led to the need for people in academia and industry to upskill themselves with R programming language for manipulating and visualizing data. Thereby, making R an excellent programming languages to consider for data analysis.
@@ -12,6 +10,7 @@ R is a very competent programming language, it is a free,  open-sourced software
 
 At the end of this training, you should feel confident to start managing your own data, use packages and libraries in R, produce histograms, customize plots,  build and fit  models and perform statistical analyses
 
+<br/>
 
 #### Training Schedule
 
@@ -32,9 +31,12 @@ At the end of this training, you should feel confident to start managing your ow
 | [Linear Models and GLMs](https://github.com/Lizzydapsy/R-course_materials/blob/main/Linear%20Models%20and%20GLMs.md) | TBD | 12:30:00 - 13:30:00 | 1 Hour |
 | [One-way ANOVA and ANCOVA](https://github.com/Lizzydapsy/R-course_materials/blob/main/One-way%20ANOVA%20and%20ANCOVA.md) | TBD | 13:30:00 - 14:30:00 | 1 Hour |
 
+<br/>
 
 ### General notes
 Here are some references for further reading if you ever need to. You might want to bookmark them for ease of access
+
+<br/>
 
 Loads of learning resources: https://stats.stackexchange.com/questions/138/free-resources-for-learning-r
 
@@ -48,6 +50,7 @@ Tidyverse (ggplot2 and dplyr): https://www.tidyverse.org/
 
 You are stranded and you need to ask questions: https://stackoverflow.com/questions/tagged/r
 
+<br/><br/>
 
 #### Prerequisites
 No prior programming experience is required
