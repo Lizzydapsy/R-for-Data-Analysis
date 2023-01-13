@@ -20,7 +20,7 @@ At the end of this training, you should feel confident to start managing your ow
 | |
 | R for Statistics and Data Visualisation - An Introduction for Life Scientists 1 |
 | [Setting up R and RStudio / Getting started with R](https://github.com/Lizzydapsy/R-course_materials/blob/main/Getting-started-with-R.md) | Mon 13/02/2023 | 10:00:00 - 10:30:00 | 30 minutes |
-| [Data Management and Basic graphing](https://github.com/Lizzydapsy/R-course_materials/blob/main/Data%20Management%20and%20Basic%20graphing.md) | Mon 13/02/2023 | 10:30:00 - 11:30:00 | 1 Hour |
+| [Data handling and Basic plotting](https://github.com/Lizzydapsy/R-course_materials/blob/main/Data-handling-and-Basic-plotting.md) | Mon 13/02/2023 | 10:30:00 - 11:30:00 | 1 Hour |
 | Break| Mon 13/02/2023  | 11:30:00 - 11:45:00 | 15 minutes |
 | [Manipulating Data and advanced Plotting](https://github.com/Lizzydapsy/R-course_materials/blob/main/Manipulating%20Data%20and%20advanced%20Plotting.md) | Mon 13/02/2023  | 11:45:00 - 13:00:00 | 1.25 Hours |
 | |
