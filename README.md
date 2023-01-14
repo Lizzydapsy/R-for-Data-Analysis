@@ -1,7 +1,18 @@
+---
+output: 
+  html_document: 
+    keep_md: true
+    theme: readable
+    highlight: pygments
+---
 
-![The aim of this course is to give an introduction to using R programming language for analyzing data in RStudio, focusing on basic Statistics and Data Visualization.](C:\Users\bop18eoo\Desktop\start_page.png)
+![](C:title.png)
 
-<br/><br/>
+
+<br/><br/><br/><br/>
+
+###   Aim
+The aim of this course is to give an introduction to using R programming language for analyzing data in RStudio, focusing on basic Statistics and Data Visualization.
 
 ###   Overview
 The accelerated increase in the data generated from high-throughput scientific experiments has led to the need for people in academia and industry to upskill themselves with R programming language for manipulating and visualizing data. Thereby, making R an excellent programming languages to consider for data analysis.
@@ -12,11 +23,12 @@ At the end of this training, you should feel confident to start managing your ow
 
 <br/>
 
-#### Training Schedule
+### Training Schedule
 
+<br/>
 
 | Content | Date | Time | Duration |
-| ------- | ---- | ---- | --- |
+| -------- | ---- | ---- | --- |
 | |
 | R for Statistics and Data Visualisation - An Introduction for Life Scientists 1 |
 | [Setting up R and RStudio / Getting started with R](https://github.com/Lizzydapsy/R-course_materials/blob/main/Getting-started-with-R.md) | Mon 13/02/2023 | 10:00:00 - 10:30:00 | 30 minutes |
@@ -52,7 +64,7 @@ You are stranded and you need to ask questions: https://stackoverflow.com/questi
 
 <br/><br/>
 
-#### Prerequisites
+### Prerequisites
 No prior programming experience is required
 
 
