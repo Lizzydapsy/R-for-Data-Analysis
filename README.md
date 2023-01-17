@@ -12,7 +12,7 @@ output:
 <br/><br/><br/><br/>
 
 ###   Aim
-The aim of this course is to give an introduction to using R programming language for analyzing data in RStudio, focusing on basic Statistics and Data Visualization.
+The aim of this course is to give an introduction to using R programming language for analyzing data in RStudio, focusing on basic Statistics and Data Visualization. It is assumed that you understand the data types and be able to draw conclusions from data results. The goal here is to show you how to use R to visualize your data and teach you some basic statistics. We will not be explaining in details the suitability of data types to various statistics and the types of hypothesis that can be tested with the different statistics. 
 
 ###   Overview
 The accelerated increase in the data generated from high-throughput scientific experiments has led to the need for people in academia and industry to upskill themselves with R programming language for manipulating and visualizing data. Thereby, making R an excellent programming languages to consider for data analysis.
@@ -61,6 +61,8 @@ Loads of datasets for practicing: https://vincentarelbundock.github.io/Rdatasets
 Tidyverse (ggplot2 and dplyr): https://www.tidyverse.org/
 
 You are stranded and you need to ask questions: https://stackoverflow.com/questions/tagged/r
+
+Any more issues?, just google it: https://www.google.com/
 
 <br/><br/>
 
