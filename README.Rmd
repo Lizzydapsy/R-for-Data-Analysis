@@ -60,7 +60,7 @@ klippy::klippy()
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ###   Aim
-The aim of this course is to give an introduction to using R programming language for analyzing data in RStudio, focusing on basic Statistics and Data Visualization. It is assumed that you understand data types and be able to draw conclusions from data results. The goal here is to show you how to use R to visualize data and teach you some basic statistics. We will not be explaining in details the suitability of data types to various statistics and the types of hypothesis that can be tested with the different statistics. 
+The aim of this course is to give an introduction to using R programming language for analyzing data in RStudio, focusing on basic statistics and data visualization. It is assumed that you understand data types and be able to draw conclusions from data results. The goal here is to show you how to use R to visualize data and teach you some basic statistics. We will not be explaining in details the suitability of data types to various statistics and the types of hypothesis that can be tested with the different statistics. 
 
 <br/>
 
@@ -77,12 +77,16 @@ At the end of this training, you should feel confident to start managing your ow
 
 <br/>
 
+This course has been parted into two. The first section focuses on data visualization and the other one is mainly on basic statistics.
+
+<br/>
+
 | Content | Date | Time | Duration |
 | -------- | ---- | ---- | --- |
 | |
 | R for Statistics and Data Visualisation - An Introduction for Life Scientists 1 |
 | [Setting up R and RStudio / Getting started with R](https://lizzydapsy.github.io/R-course_materials/Getting-started-with-R.html) | Mon 13/02/2023 | 10:00:00 - 10:30:00 | 30 minutes |
-| [Data exploration and Basic plotting](https://lizzydapsy.github.io/R-course_materials/Data-exploration-and-basic-plotting.html) | Mon 13/02/2023 | 10:30:00 - 11:30:00 | 1 Hour |
+| [Data exploration and basic plotting](https://lizzydapsy.github.io/R-course_materials/Data-exploration-and-basic-plotting.html) | Mon 13/02/2023 | 10:30:00 - 11:30:00 | 1 Hour |
 | Break| Mon 13/02/2023  | 11:30:00 - 11:45:00 | 15 minutes |
 | [Data manipulation and advanced plotting](https://lizzydapsy.github.io/R-course_materials/Data-manipulation-and-advanced-plotting.html) | Mon 13/02/2023  | 11:45:00 - 13:00:00 | 1.25 Hours |
 | |
@@ -90,13 +94,13 @@ At the end of this training, you should feel confident to start managing your ow
 | [Basic statistics - t-test](https://lizzydapsy.github.io/R-course_materials/Basic-statistics---t-test.html) | TBD  | 10:00:00 - 11:00:00 | 1 Hour |
 | [Basic statistics - chi-square test](https://lizzydapsy.github.io/R-course_materials/Basic-statistics---chi-square-test.html) |  TBD| 11:00:00 - 12:00:00 | 1 Hour |
 | Break | TBD | 12:00:00 - 12:30:00 | 30 minutes |
-| [Linear Models and GLMs](https://lizzydapsy.github.io/R-course_materials/Linear-Models-and-GLMs.html) | TBD | 12:30:00 - 13:30:00 | 1 Hour |
+| [Linear models and GLMs](https://lizzydapsy.github.io/R-course_materials/Linear-Models-and-GLMs.html) | TBD | 12:30:00 - 13:30:00 | 1 Hour |
 | [One-way ANOVA and ANCOVA](https://lizzydapsy.github.io/R-course_materials/One-way-ANOVA-and-ANCOVA.html) | TBD | 13:30:00 - 14:30:00 | 1 Hour |
 
 <br/>
 
 ### General notes
-Here are some references for further reading if you ever need to. You might want to bookmark them for ease of access
+Here are some references for further reading if needed. You might want to bookmark them for ease of access
 
 <br/>
 
@@ -106,7 +110,7 @@ R cheatsheet (it's not cheating!): https://posit.co/resources/cheatsheets/
 
 Data Carpentry Spreadsheet Formatting Lessons: https://datacarpentry.org/spreadsheet-ecology-lesson/
 
-Loads of datasets for practicing: https://vincentarelbundock.github.io/Rdatasets/datasets.html
+Loads of datasets for practicing: https://www.kaggle.com/datasets
 
 Tidyverse (ggplot2 and dplyr): https://www.tidyverse.org/
 
