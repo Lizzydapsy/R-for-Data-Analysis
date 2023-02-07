@@ -1,0 +1,196 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+
+{
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+
+\hypertarget{aim}{%
+\subsubsection{Aim}\label{aim}}
+
+The aim of this course is to give an introduction to using R programming
+language for analyzing data in RStudio, focusing on basic statistics and
+data visualization. It is assumed that you understand data types and be
+able to draw conclusions from data results. The goal here is to show you
+how to use R to visualize data and teach you some basic statistics. We
+will not be explaining in details the suitability of data types to
+various statistics and the types of hypothesis that can be tested with
+the different statistics.
+
+\hypertarget{overview}{%
+\subsubsection{Overview}\label{overview}}
+
+R is a very competent programming language, it is a free, open-sourced
+software for statistical analysis, with many useful features such as
+``Best-in-Class Visualizations'', that are insightful and facilitate
+reproducible research. The accelerated increase in the amounts of data
+generated from high-throughput scientific experiments has led to the
+introduction of reliable tools such as R, for data processing,
+management, and visualization, and with it came the need for people in
+academia and industry to upskill themselves with R programming language
+for manipulating and visualizing data. Thereby, making R an excellent
+programming language to consider for data analysis.
+
+At the end of this training, you should feel confident to start managing
+your own data, use packages and libraries in R, produce histograms,
+customize plots, build and fit models and perform statistical analyses
+
+\hypertarget{training-schedule}{%
+\subsubsection{Training Schedule}\label{training-schedule}}
+
+This course has been parted into two. The first section focuses on data
+visualization and the other one is mainly on basic statistics.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.4211}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2105}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2105}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.1579}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+Content
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Date
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Time
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Duration
+\end{minipage} \\
+\midrule()
+\endhead
+& & & \\
+R for Statistics and Data Visualisation - An Introduction for Life
+Scientists 1 & & & \\
+\href{https://lizzydapsy.github.io/R-course_materials/Getting-started-with-R.html}{Setting
+up R and RStudio / Getting started with R} & Mon 13/02/2023 & 10:00:00 -
+10:30:00 & 30 minutes \\
+\href{https://lizzydapsy.github.io/R-course_materials/Data-exploration-and-basic-plotting.html}{Data
+exploration and basic plotting} & Mon 13/02/2023 & 10:30:00 - 11:30:00 &
+1 Hour \\
+Break & Mon 13/02/2023 & 11:30:00 - 11:45:00 & 15 minutes \\
+\href{https://lizzydapsy.github.io/R-course_materials/Data-manipulation-and-advanced-plotting.html}{Data
+manipulation and advanced plotting} & Mon 13/02/2023 & 11:45:00 -
+13:00:00 & 1.25 Hours \\
+& & & \\
+R for Statistics and Data Visualisation - An Introduction for Life
+Scientists 2 & & & \\
+\href{https://lizzydapsy.github.io/R-course_materials/Basic-statistics---t-test.html}{Basic
+statistics - t-test} & TBD & 10:00:00 - 11:00:00 & 1 Hour \\
+\href{https://lizzydapsy.github.io/R-course_materials/Basic-statistics---chi-square-test.html}{Basic
+statistics - chi-square test} & TBD & 11:00:00 - 12:00:00 & 1 Hour \\
+Break & TBD & 12:00:00 - 12:30:00 & 30 minutes \\
+\href{https://lizzydapsy.github.io/R-course_materials/Linear-Models-and-GLMs.html}{Linear
+Models and GLMs} & TBD & 12:30:00 - 13:30:00 & 1 Hour \\
+\href{https://lizzydapsy.github.io/R-course_materials/One-way-ANOVA-and-ANCOVA.html}{One-way
+ANOVA and ANCOVA} & TBD & 13:30:00 - 14:30:00 & 1 Hour \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{general-notes}{%
+\subsubsection{General notes}\label{general-notes}}
+
+Here are some references for further reading if needed. You might want
+to bookmark them for ease of access
+
+Loads of learning resources:
+\url{https://stats.stackexchange.com/questions/138/free-resources-for-learning-r}
+
+R cheatsheet (it's not cheating!):
+\url{https://posit.co/resources/cheatsheets/}
+
+Data Carpentry Spreadsheet Formatting Lessons:
+\url{https://datacarpentry.org/spreadsheet-ecology-lesson/}
+
+Loads of datasets for practicing: \url{https://www.kaggle.com/datasets}
+
+Tidyverse (ggplot2 and dplyr): \url{https://www.tidyverse.org/}
+
+You are stranded and you need to ask questions:
+\url{https://stackoverflow.com/questions/tagged/r}
+
+Any more issues? just google it: \url{https://www.google.com/}
+
+\hypertarget{prerequisites}{%
+\subsubsection{Prerequisites}\label{prerequisites}}
+
+No prior programming experience is required
+
+.
+
+\end{document}

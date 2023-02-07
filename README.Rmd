@@ -1,14 +1,16 @@
 ---
-output: 
-  html_document: 
+output:
+  html_document:
     toc: yes
-    toc_float: 
-      collapsed: yes
+    toc_float:
+      collapsed: no
       smooth_scroll: no
     css: stylesheets/styles.css
     theme: readable
     highlight: pygments
     code_folding: show
+  pdf_document:
+    toc: yes
 ---
 
 
@@ -17,23 +19,14 @@ output:
 <img src="title.png" style="position:absolute;top:300px;left:10px;"width="5000" />
 
 <br/><br/><br/><br/>
-
-<br/><br/><br/><br/>
-
 <br/><br/><br/><br/>
 <br/><br/><br/><br/>
-
-<br/><br/><br/><br/>
-
-<br/><br/><br/><br/>
-
 <br/><br/><br/><br/>
 <br/><br/><br/><br/>
-
 <br/><br/><br/><br/>
-
 <br/><br/><br/><br/>
-
+<br/><br/><br/><br/>
+<br/><br/><br/><br/>
 <br/><br/><br/><br/>
 
 
@@ -45,7 +38,7 @@ The aim of this course is to give an introduction to using R programming languag
 
 ###   Overview
 
-R is a very competent programming language, it is a free, open-sourced software for statistical analysis, with many useful features such as “Best-in-Class Visualizations”, that are insightful and facilitate reproducible research. The accelerated increase in the data generated from high-throughput scientific experiments has led to the need for people in academia and industry to upskill themselves with R programming language for manipulating and visualizing data. Thereby, making R an excellent programming languages to consider for data analysis.
+R is a very competent programming language, it is a free, open-sourced software for statistical analysis, with many useful features such as “Best-in-Class Visualizations”, that are insightful and facilitate reproducible research. The accelerated increase in the amounts of data generated from high-throughput scientific experiments has led to the introduction of reliable tools such as R, for data processing, management, and visualization, and with it came the need for people in academia and industry to upskill themselves with R programming language for manipulating and visualizing data. Thereby, making R an excellent programming language to consider for data analysis.
 
 At the end of this training, you should feel confident to start managing your own data, use packages and libraries in R, produce histograms, customize plots, build and fit models and perform statistical analyses
 
