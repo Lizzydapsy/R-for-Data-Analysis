@@ -80,7 +80,7 @@ Loads of learning resources: https://stats.stackexchange.com/questions/138/free-
 
 R cheatsheet (it’s not cheating!): https://posit.co/resources/cheatsheets/
 
-Data Carpentry Spreadsheet Formatting Lessons: https://datacarpentry.org/spreadsheet-ecology-lesson/
+Data carpentry spreadsheet formatting lessons: https://datacarpentry.org/spreadsheet-ecology-lesson/
 
 Loads of datasets for practicing: https://www.kaggle.com/datasets
 
@@ -97,10 +97,15 @@ Any more issues? just google it: https://www.google.com/
 ### Prerequisites
 No prior programming experience is required
 
+<br/>
 
 
+### Datasets
 
+Download the datasets we will be using in this course.
 
+[ElephantsMF.csv](http://rcg.group.shef.ac.uk/courses/R/Dataset/ElephantsMF.csv) 
 
-.
+[IRIS.csv](http://rcg.group.shef.ac.uk/courses/R/Dataset/IRIS.csv)
 
+[Mortality.csv](http://rcg.group.shef.ac.uk/courses/R/Dataset/Mortality.csv) 
