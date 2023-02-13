@@ -14,8 +14,6 @@ output:
 ---
 
 
-
-
 <img src="title.png" style="position:absolute;top:300px;left:10px;"width="5000" />
 
 <br/><br/><br/><br/>
@@ -38,7 +36,7 @@ The aim of this course is to give an introduction to using R programming languag
 
 ###   Overview
 
-R is a very competent programming language, it is a free, open-sourced software for statistical analysis, with many useful features such as “Best-in-Class Visualizations”, that are insightful and facilitate reproducible research. The accelerated increase in the amounts of data generated from high-throughput scientific experiments has led to the introduction of reliable tools such as R, for data processing, management, and visualization, and with it came the need for people in academia and industry to upskill themselves with R programming language for manipulating and visualizing data. Thereby, making R an excellent programming language to consider for data analysis.
+R is a very competent programming language, it is a free, open-sourced software for statistical analysis, with many useful features such as 'Best-in-Class Visualizations', that are insightful and facilitate reproducible research. The accelerated increase in the amounts of data generated from high-throughput scientific experiments has led to the introduction of reliable tools such as R, for data processing, management, and visualization, and with it came the need for people in academia and industry to upskill themselves with R programming language for manipulating and visualizing data. Thereby, making R an excellent programming language to consider for data analysis.
 
 At the end of this training, you should feel confident to start managing your own data, use packages and libraries in R, produce histograms, customize plots, build and fit models and perform statistical analyses
 
@@ -72,9 +70,13 @@ This course has been parted into two. The first section focuses on data visualiz
 <br/>
 
 ### General notes
-Here are some references for further reading if needed. You might want to bookmark them for ease of access
+
+Link to this course: https://rcg.group.shef.ac.uk/courses/R/README.html
 
 <br/>
+
+Here are some references for further reading if needed. You might want to bookmark them for ease of access
+
 
 Loads of learning resources: https://stats.stackexchange.com/questions/138/free-resources-for-learning-r
 
