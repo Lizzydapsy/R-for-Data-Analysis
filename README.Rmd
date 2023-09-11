@@ -54,13 +54,13 @@ This course has been parted into two. The first section focuses on data visualiz
 | Content | Date | Time | Duration |
 | -------- | ---- | ---- | --- |
 | |
-| R for Statistics and Data Visualisation - An Introduction for Life Scientists 1 |
+| R for Statistics and Data Visualisation |
 | [Setting up R and RStudio / Getting started with R](https://lizzydapsy.github.io/R-course_materials/Getting-started-with-R.html) | Mon 13/02/2023 | 10:00:00 - 10:30:00 | 30 minutes |
 | [Data exploration and basic plotting](https://lizzydapsy.github.io/R-course_materials/Data-exploration-and-basic-plotting.html) | Mon 13/02/2023 | 10:30:00 - 11:30:00 | 1 Hour |
 | Break| Mon 13/02/2023  | 11:30:00 - 11:45:00 | 15 minutes |
 | [Data manipulation and advanced plotting](https://lizzydapsy.github.io/R-course_materials/Data-manipulation-and-advanced-plotting.html) | Mon 13/02/2023  | 11:45:00 - 13:00:00 | 1.25 Hours |
 | |
-| R for Statistics and Data Visualisation - An Introduction for Life Scientists 2 |
+| R for Statistics and Data Visualisation |
 | [Basic statistics - t-test](https://lizzydapsy.github.io/R-course_materials/Basic-statistics---t-test.html) | TBD  | 10:00:00 - 11:00:00 | 1 Hour |
 | [Basic statistics - chi-square test](https://lizzydapsy.github.io/R-course_materials/Basic-statistics---chi-square-test.html) |  TBD| 11:00:00 - 12:00:00 | 1 Hour |
 | Break | TBD | 12:00:00 - 12:30:00 | 30 minutes |
