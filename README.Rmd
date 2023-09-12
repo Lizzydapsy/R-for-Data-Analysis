@@ -51,21 +51,21 @@ This course has been parted into two. The first section focuses on data visualiz
 
 <br/>
 
-| Content | Date | Time | Duration |
-| -------- | ---- | ---- | --- |
+| Content | Time | Duration |
+| -------- | ---- | --- |
 | |
-| R for Statistics and Data Visualisation |
-| [Getting started with R](https://lizzydapsy.github.io/R-course_materials/Getting-started-with-R.html) | Mon 13/02/2023 | 10:00:00 - 10:30:00 | 30 minutes |
-| [Data exploration and basic plotting](https://lizzydapsy.github.io/R-course_materials/Data-exploration-and-basic-plotting.html) | Mon 13/02/2023 | 10:30:00 - 11:30:00 | 1 Hour |
-| Break| Mon 13/02/2023  | 11:30:00 - 11:45:00 | 15 minutes |
-| [Data manipulation and advanced plotting](https://lizzydapsy.github.io/R-course_materials/Data-manipulation-and-advanced-plotting.html) | Mon 13/02/2023  | 11:45:00 - 13:00:00 | 1.25 Hours |
+| R for Statistics and Data Visualisation 1 |
+| [Getting started with R](https://lizzydapsy.github.io/R-course_materials/Getting-started-with-R.html) |  10:00:00 - 10:30:00 | 30 minutes |
+| [Data exploration and basic plotting](https://lizzydapsy.github.io/R-course_materials/Data-exploration-and-basic-plotting.html) |  10:30:00 - 11:30:00 | 1 Hour |
+| Break|  11:30:00 - 11:45:00 | 15 minutes |
+| [Data manipulation and advanced plotting](https://lizzydapsy.github.io/R-course_materials/Data-manipulation-and-advanced-plotting.html) |  11:45:00 - 13:00:00 | 1.25 Hours |
 | |
-| R for Statistics and Data Visualisation |
-| [Basic statistics - t-test](https://lizzydapsy.github.io/R-course_materials/Basic-statistics---t-test.html) | TBD  | 10:00:00 - 11:00:00 | 1 Hour |
-| [Basic statistics - chi-square test](https://lizzydapsy.github.io/R-course_materials/Basic-statistics---chi-square-test.html) |  TBD| 11:00:00 - 12:00:00 | 1 Hour |
-| Break | TBD | 12:00:00 - 12:30:00 | 30 minutes |
-| [Linear Models and GLMs](https://lizzydapsy.github.io/R-course_materials/Linear-Models-and-GLMs.html) | TBD | 12:30:00 - 13:30:00 | 1 Hour |
-| [One-way ANOVA and ANCOVA](https://lizzydapsy.github.io/R-course_materials/One-way-ANOVA-and-ANCOVA.html) | TBD | 13:30:00 - 14:30:00 | 1 Hour |
+| R for Statistics and Data Visualisation 2 |
+| [Basic statistics - t-test](https://lizzydapsy.github.io/R-course_materials/Basic-statistics---t-test.html) | 10:00:00 - 11:00:00 | 1 Hour |
+| [Basic statistics - chi-square test](https://lizzydapsy.github.io/R-course_materials/Basic-statistics---chi-square-test.html) | 11:00:00 - 12:00:00 | 1 Hour |
+| Break |  12:00:00 - 12:30:00 | 30 minutes |
+| [Linear Models and GLMs](https://lizzydapsy.github.io/R-course_materials/Linear-Models-and-GLMs.html) |  12:30:00 - 13:30:00 | 1 Hour |
+| [One-way ANOVA and ANCOVA](https://lizzydapsy.github.io/R-course_materials/One-way-ANOVA-and-ANCOVA.html) |  13:30:00 - 14:30:00 | 1 Hour |
 
 <br/>
 
