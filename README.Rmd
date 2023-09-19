@@ -54,13 +54,13 @@ This course has been divided into two parts. The first section is dedicated to d
 | Content | Time | Duration |
 | -------- | ---- | --- |
 | |
-| R for Statistics and Data Visualisation 1 |
+| __R for Statistics and Data Visualisation 1__ |
 | [Getting started with R](https://lizzydapsy.github.io/R-course_materials/Getting-started-with-R.html) |  10:00:00 - 10:30:00 | 30 minutes |
 | [Data exploration and basic plotting](https://lizzydapsy.github.io/R-course_materials/Data-exploration-and-basic-plotting.html) |  10:30:00 - 11:30:00 | 1 Hour |
 | Break|  11:30:00 - 11:45:00 | 15 minutes |
 | [Data manipulation and advanced plotting](https://lizzydapsy.github.io/R-course_materials/Data-manipulation-and-advanced-plotting.html) |  11:45:00 - 13:00:00 | 1.25 Hours |
 | |
-| R for Statistics and Data Visualisation 2 |
+| __R for Statistics and Data Visualisation 2__ |
 | [Basic statistics - t-test](https://lizzydapsy.github.io/R-course_materials/Basic-statistics---t-test.html) | 10:00:00 - 11:00:00 | 1 Hour |
 | [Basic statistics - chi-square test](https://lizzydapsy.github.io/R-course_materials/Basic-statistics---chi-square-test.html) | 11:00:00 - 12:00:00 | 1 Hour |
 | Break |  12:00:00 - 12:30:00 | 30 minutes |
@@ -104,10 +104,5 @@ No prior programming experience is required
 
 ### Datasets
 
-Download the datasets we will be using in this course.
+Download the [datasets](https://drive.google.com/drive/folders/17glWVCgvnoTAPKUdcdO_MhCXSSCmQO6P?usp=sharing) we will be using in this course.
 
-[ElephantsMF.csv](http://rcg.group.shef.ac.uk/courses/R/Dataset/ElephantsMF.csv) 
-
-[IRIS.csv](http://rcg.group.shef.ac.uk/courses/R/Dataset/IRIS.csv)
-
-[Mortality.csv](http://rcg.group.shef.ac.uk/courses/R/Dataset/Mortality.csv) 
