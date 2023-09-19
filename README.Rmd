@@ -46,7 +46,7 @@ By the end of this training, you should feel self-assured in your ability to ind
 
 <br/>
 
-This course has been parted into two. The first section focuses on data visualization and the other one is mainly on basic statistics.
+This course has been divided into two parts. The first section is dedicated to data visualization, while the second section primarily covers basic statistics.
 
 
 <br/>
